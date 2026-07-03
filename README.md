@@ -50,12 +50,19 @@ An advanced, open-source weather station built around the **ESP32-S3** microcont
 A custom-built multi-tool for hackers and geeks, replicating and expanding upon core functionalities like Sub-GHz, RFID, and IR protocols using custom developer boards and modular architecture.
 
 ---
+---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Morki-Tech&show_icons=true&theme=dark&hide_border=true" alt="Morki-Tech's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morki-Tech&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Morki-Tech&theme=onedark&column=7&margin-w=15&no-bg=true" alt="Morki-Tech Github Trophies" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Morki-Tech&theme=dark&hide_border=true" alt="Morki-Tech GitHub Streak" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Morki-Tech&theme=gotham" alt="Morki-Tech GitHub Details" width="48%" />
 </p>
 
 ---
